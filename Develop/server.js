@@ -5,19 +5,6 @@ const routes = require("./routes");
 const app = express();
 const PORT = process.env.PORT || 3001;
 
-// let user = {
-//   username: "Joe",
-//   password: "pass123",
-// };
-
-// fs.writeFile("data.txt", JSON.stringify(user));
-
-// const user = new User({
-//   username: "Joe",
-//   password: "pass123",
-// });
-// user.save();
-
 app.use(express.json());
 app.use(express.urlencoded({ extended: true }));
 
