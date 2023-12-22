@@ -25,6 +25,6 @@ POST /api/tags: Create a new tag.
 PUT /api/tags/:id: Update a tag by ID.
 DELETE /api/tags/:id: Delete a tag by ID.
 
-I understand that this HW wants a video submitted but I was having difficulty with my screen recorder in order to show the different API endpoints in action. I'm hoping that the ddscription I put above as well as the way that I have organized my code will be enough to show that I understand what I was asked to do to get good marks on other sections of the how but of course not the the 37% for the video submission.
+I understand that this HW wants a video submitted but I was having difficulty with my screen recorder in order to show the different API endpoints in action. I'm hoping that the description I put above as well as the way that I have organized my code will be enough to show that I understand what I was asked to do to get good marks on other sections of the how but of course not the the 37% for the video submission.
 
 Github link: https://github.com/pjang77/Challenge-13
